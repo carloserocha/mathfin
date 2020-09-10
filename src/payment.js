@@ -9,6 +9,7 @@ const getPercentageChange = (value1 = 0, value2 = 0) => {
     return (value / value1) * 100
 }
 
+
 module.exports = {
     getTotalPayedWithInterestRate,
     getPercentageChange

@@ -14,6 +14,7 @@ const getItemsPayedWithInterestRate = (items, interestRate) => {
     return payItems
 }
 
+
 module.exports = {
     getItemsPayedWithInterestRate
 }
